@@ -1,0 +1,18 @@
+class Solution {
+    public int minAddToMakeValid(String s) {
+        int x = 0, y = 0, ans = 0;
+
+        for (char a : s.toCharArray()){
+            if (a == '(')
+                x++;
+            else
+                y++;
+            if (y > x){
+                ans++;
+                x++;
+            }
+        }
+        return ans + Math.abs(x - y);
+    }
+}
+    
