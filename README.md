@@ -38,4 +38,24 @@ My DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
