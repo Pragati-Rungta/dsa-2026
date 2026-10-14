@@ -1,25 +1,22 @@
 class Solution {
-    List<String> ans = new ArrayList<>();
-    void func(String s , int n , int a, int b){
-            if(s.length() == 2*n){
-                ans.add(s);
-                return;
-            }
-            if(a>n || b>n){
-                return;
-            }
-            if(a<b){
-                return;
-            }
-            if(a<n){
-            func(s + "(", n, a + 1, b);
-            }
-            if(b<a){
-            func(s + ")", n, a, b + 1);
-             }
-    }
     public List<String> generateParenthesis(int n) {
-     func("" , n , 0, 0);
-     return ans;
-    }  
+    
+        List<String> result = new ArrayList<>();
+        backtrack(result, "", 0, 0, n);
+        return result;
+    }
+    public void backtrack(List<String> result, String current, int open , int close, int n){
+        if(current.length() == 2*n){
+            result.add(current);
+            return;
+        }
+        if(open<n){
+            backtrack(result, current + "(" , open + 1, close, n);
+        }
+        if(close < open){
+            backtrack(result, current  + ")" , open, close+1, n);
+        
+        }
+    }
 }
+    
