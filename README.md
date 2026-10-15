@@ -42,6 +42,7 @@ My DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,16 @@ My DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
