@@ -21,6 +21,7 @@ My DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ My DSA practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search
@@ -50,6 +52,7 @@ My DSA practice
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
