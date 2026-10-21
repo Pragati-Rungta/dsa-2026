@@ -8,6 +8,7 @@ My DSA practice
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0022-generate-parentheses/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
