@@ -49,6 +49,7 @@ My DSA practice
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +85,8 @@ My DSA practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0064-minimum-path-sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 <!---LeetCode Topics End-->
