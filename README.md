@@ -32,6 +32,7 @@ My DSA practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ My DSA practice
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0064-minimum-path-sum/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Pragati-Rungta/dsa-2026/tree/main/1260-shift-2d-grid/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -64,6 +66,7 @@ My DSA practice
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Heap (Priority Queue)
