@@ -34,6 +34,7 @@ My DSA practice
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ My DSA practice
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
