@@ -46,6 +46,7 @@ My DSA practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0064-minimum-path-sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -65,6 +66,7 @@ My DSA practice
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
@@ -105,5 +107,6 @@ My DSA practice
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
