@@ -55,6 +55,7 @@ My DSA practice
 | [1260-shift-2d-grid](https://github.com/Pragati-Rungta/dsa-2026/tree/main/1260-shift-2d-grid/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -70,12 +71,14 @@ My DSA practice
 | [0011-container-with-most-water](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
