@@ -25,6 +25,7 @@ My DSA practice
 | [0022-generate-parentheses](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0064-minimum-path-sum/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ My DSA practice
 | [0055-jump-game](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0064-minimum-path-sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Pragati-Rungta/dsa-2026/tree/main/1260-shift-2d-grid/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
