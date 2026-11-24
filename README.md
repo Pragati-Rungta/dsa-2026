@@ -36,6 +36,7 @@ My DSA practice
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0509-fibonacci-number/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ My DSA practice
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragati-Rungta/dsa-2026/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
@@ -116,4 +118,16 @@ My DSA practice
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragati-Rungta/dsa-2026/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pragati-Rungta/dsa-2026/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
